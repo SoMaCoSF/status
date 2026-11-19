@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "lane": "vercel-board-proposal",
+   "text": "IMBUUID native-class proposal for Vercel Board \u2014 SCOPE EXPANDED by founder: now leads with a live reference build (board.somacosf.com, IMBUUID-native, plugin-shaped like the Jevie wrap) + dual PRs (Jevie plugin, Board native class) + SPOC Talk contact layer + escrow payment leg. Target surface verified: github.com/vercel/board public (Apache-2.0), PR creation collaborators-only, last 200 PRs 100% internal. Design only; the build fires on one founder GO.",
+   "ts": "2026-11-19T14:12:57-08:00"
+  },
+  {
    "lane": "jevie-vlad-report",
    "text": "Jevie Windows-build report for Vlad DONE \u2014 draft at harvest/jevie/report-to-vlad-windows-build.md (founder reviews + sends; nothing sent). Verified live: fork still at v4.0.4, upstream now at v4.5.0 (three releases past the pin, not one). jev.csv verified: OMEN-01 holds an Electron-packaged Windows build tree predating 1.1.0.",
    "ts": "2026-11-19T13:32:00-08:00"
