@@ -27,9 +27,14 @@
  ],
  "feed": [
   {
-   "ts": "2026-11-19T19:49:12+00:00",
+   "lane": "rea-harvest",
+   "text": "REA baseline done: build green on Linux, Windows addon artifact verified from the published tarball. Writing Windows gap analysis + Rust harvest spec.",
+   "ts": "2026-11-19T11:55:47-08:00"
+  },
+  {
    "lane": "spoken-itpm",
-   "text": "Lane C complete: fold-in verified 15/15; deploy package built and hash-verified (337/337 legacy byte-exact, 4 additions, build clean). Awaiting founder git-route ruling + namespace #33 ruling. Production untouched."
+   "text": "Lane C complete: fold-in verified 15/15; deploy package built and hash-verified (337/337 legacy byte-exact, 4 additions, build clean). Awaiting founder git-route ruling + namespace #33 ruling. Production untouched.",
+   "ts": "2026-11-19T19:49:12+00:00"
   },
   {
    "lane": "rea-harvest",
@@ -127,12 +132,12 @@
   },
   {
    "grade": "BUILDING",
-   "headline": "Lane D started: upstream delta (578 commits), Linux build baseline, Windows gap analysis, Rust harvest spec for Somacomarchy.",
+   "headline": "Baseline measured: fork is 579 commits behind upstream (pure hardening wave, zero feat commits). Linux build rc=0; typecheck+lint green; architecture-guards blocked only by this VM's 4096 fd cap (EMFILE). Published 6.9.0 Windows addon recovered from npm tarball: PE x86-64, SHA-256 matches manifest, artifact verifier passes.",
    "id": "rea-harvest",
    "name": "REA \u2014 Windows build + Rust harvest",
-   "next": "Fetch upstream + characterize delta vs SOM-DOC-10260 baseline; npm ci + build + check:fast baseline.",
-   "updated_at": "2026-11-19T11:48:44-08:00"
+   "next": "Write WINDOWS.md gap analysis + Rust harvest spec (HARVEST.md) with license gate (MIT, (c) 2026 morluto).",
+   "updated_at": "2026-11-19T11:55:47-08:00"
   }
  ],
- "updated_at": "2026-11-19T19:49:12+00:00"
+ "updated_at": "2026-11-19T11:55:47-08:00"
 }
