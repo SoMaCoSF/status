@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "ts": "2026-11-19T15:22:40-08:00",
+   "lane": "board-mission-control",
+   "text": "Mission-control HERO DONE \u2014 ELI5 hero visual live on board-mission-control.vercel.app: five-station inline SVG (Agents \u2192 Board \u2192 Receipt chain \u2192 Supabase \u2192 Mission control), gold pulse on the flow, chain motif, caption; stacked layout verified at 375px. Commit eb244b6a, production dpl_DfKvfFtao6sYX32M7WgkL3TJTaHD READY, live bytes sha256-identical to repo (2c882a56\u2026), /api/activity live."
+  },
+  {
    "ts": "2026-11-19T15:19:15-08:00",
    "lane": "board-mission-control",
    "text": "Mission-control HERO STARTED \u2014 adding an ELI5 hero visual to apps/mission-control in SoMaCoSF/board (branch mission-control): one inline SVG, five stations (Agents \u2192 Board \u2192 Receipt chain \u2192 Supabase \u2192 Mission control), gold pulse on the flow, caption; both tabs inherit it. Then build, production deploy, live verify."
@@ -252,5 +257,5 @@
    "updated_at": "2026-11-19T12:07:21-08:00"
   }
  ],
- "updated_at": "2026-11-19T15:19:15-08:00"
+ "updated_at": "2026-11-19T15:22:40-08:00"
 }
