@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "polaris-eval",
+   "text": "Polaris eval-task: checker verified both directions (solution PASS 90/90, starter FAIL 31/90); documents next.",
+   "ts": "2026-11-19T11:42:50-08:00"
+  },
+  {
+   "lane": "polaris-eval",
    "text": "Polaris eval-task: substrate verified \u2014 all canonical vectors reproduce exactly; package build underway.",
    "ts": "2026-11-19T11:41:36-08:00"
   },
@@ -60,11 +65,11 @@
  "lanes": [
   {
    "grade": "BUILDING",
-   "headline": "Substrate locked: the GYST hex codec (canonical hexuuid.py, md5 matches the proofs record). Every ground-truth fact re-verified by execution: known vector, both object exhibits, xor-fold anchors 0xEFE/0xD9C, signal rounding, boundary roundtrips.",
+   "headline": "Verification matrix green both directions: hidden checker scores the reference solution 90/90 PASS and the broken starter 31/90 FAIL; visible suite agrees. The starter's force-unpacked object decode reproduces the proofs record's wrong exhibit (28672, 31) exactly.",
    "id": "polaris-eval",
    "name": "Polaris eval-task package",
-   "next": "Building the package: broken starter, reference solution, hidden checker, rubric.",
-   "updated_at": "2026-11-19T11:41:36-08:00"
+   "next": "Writing SPEC, prompt, rubric, README to finish the package.",
+   "updated_at": "2026-11-19T11:42:50-08:00"
   },
   {
    "grade": "BUILDING",
@@ -91,5 +96,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:41:36-08:00"
+ "updated_at": "2026-11-19T11:42:50-08:00"
 }
