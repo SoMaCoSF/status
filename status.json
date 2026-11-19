@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "ts": "2026-11-19T19:41:05+00:00",
+   "lane": "spoken-itpm",
+   "text": "Lane C started: rustgis-permit fold-in to rustgis-itpm workspace in progress; /permits + /plans deploy package to follow (prep only, no deploy)."
+  },
+  {
    "lane": "polaris-eval",
    "text": "Polaris eval-task lane started \u2014 reading PROOFS.md and the dossier to choose the task substrate.",
    "ts": "2026-11-19T19:40:01+00:00"
@@ -66,11 +71,11 @@
   },
   {
    "grade": "BUILDING",
-   "headline": "Folding the rustgis-permit crate into the rustgis-itpm workspace and preparing the /permits deploy package so only the routing call remains.",
+   "headline": "Lane C started: folding rustgis-permit into the rustgis-itpm workspace (imbue crates), then preparing the /permits + /plans deploy package (no deploy, no push).",
    "id": "spoken-itpm",
    "name": "Spoken ITPM unblocking",
-   "next": "Agent assigned 2026-11-19; fold-in tests are the first milestone.",
-   "updated_at": "2026-11-19T11:32:00-08:00"
+   "next": "Fold-in + test suites on final bytes; deploy-package with file-by-file DIFF vs remote main. Founder rulings still owed: git route, namespace #33.",
+   "updated_at": "2026-11-19T19:41:05+00:00"
   },
   {
    "grade": "LIVE",
@@ -81,5 +86,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T19:40:01+00:00"
+ "updated_at": "2026-11-19T19:41:05+00:00"
 }
