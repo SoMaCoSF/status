@@ -105,6 +105,11 @@
    "lane": "jevie-rea",
    "text": "Lane started: Tier-2 REA on the founder's Jevie 1.1.0 (build 3053) DMG \u2014 split 7z verified complete on disk (23 volumes, 233,047,151 B), reassembling and unpacking on the VM. Static exercise only; macOS binary cannot run here.",
    "ts": "2026-11-19T12:02:20-08:00"
+  },
+  {
+   "lane": "jevie-rea",
+   "text": "Lane complete: Jevie 1.1.0 DMG unpacked and REA'd (SOM-DOC-10862). Swift shell + Node 24 kernel (bytenode), Jev System One client contract evidenced in shipped Python source (jev-1.13.0) with on-device Laya fallback judge; Go/Tailscale + Rust finder sidecars; Paradee ONNX on-device. Composition measured to the byte; recovery verdict: rebuild-to-spec yes (docs/skills/assets survive), recompile no (kernel + Swift source not in DMG). No credentials in bundle. Open questions in HARVEST.md \u2014 chiefly the Vlad Terin copyright/repo provenance.",
+   "ts": "2026-11-19T12:07:21-08:00"
   }
  ],
  "lanes": [
@@ -151,11 +156,11 @@
   {
    "id": "jevie-rea",
    "name": "Jevie DMG REA (founder's own app, recovery + capability extraction)",
-   "grade": "RUNNING",
-   "headline": "Lane started: Tier-2 REA on the founder's Jevie 1.1.0 (build 3053) DMG \u2014 split 7z verified complete on disk (23 volumes, 233,047,151 B), reassembling and unpacking on the VM. Static exercise only; macOS binary cannot run here.",
-   "next": "Unpack DMG, static inventory, capability extraction, HARVEST.md.",
-   "updated_at": "2026-11-19T12:02:20-08:00"
+   "grade": "DONE",
+   "headline": "Lane complete: Jevie 1.1.0 DMG unpacked and REA'd (SOM-DOC-10862). Swift shell + Node 24 kernel (bytenode), Jev System One client contract evidenced in shipped Python source (jev-1.13.0) with on-device Laya fallback judge; Go/Tailscale + Rust finder sidecars; Paradee ONNX on-device. Composition measured to the byte; recovery verdict: rebuild-to-spec yes (docs/skills/assets survive), recompile no (kernel + Swift source not in DMG). No credentials in bundle. Open questions in HARVEST.md \u2014 chiefly the Vlad Terin copyright/repo provenance.",
+   "next": "Founder review of HARVEST.md open questions.",
+   "updated_at": "2026-11-19T12:07:21-08:00"
   }
  ],
- "updated_at": "2026-11-19T12:02:20-08:00"
+ "updated_at": "2026-11-19T12:07:21-08:00"
 }
