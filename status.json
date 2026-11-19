@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "jevie-foldin",
+   "text": "Jevie fold-in DONE \u2014 SOM-DOC-10864 map delivered: C1/C2/C5 foldable now (DecisionBackend + LocalJev specs, skill-pack format), C3/C7 patterns now and implementations wait for Vlad's repo; 8 exact source-waits listed. Docs only, nothing pushed.",
+   "ts": "2026-11-19T12:15:36-08:00"
+  },
+  {
+   "lane": "jevie-foldin",
    "text": "Jevie fold-in lane started \u2014 SOM-DOC-10864 map + tranche-1 specs (DecisionBackend/System One spec, skill-pack format note, tailnet note) in writing. Docs only; nothing pushed.",
    "ts": "2026-11-19T12:13:50-08:00"
   },
