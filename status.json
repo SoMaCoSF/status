@@ -27,93 +27,98 @@
  ],
  "feed": [
   {
+   "ts": "2026-11-19T15:19:15-08:00",
    "lane": "board-mission-control",
-   "text": "Class layer BUILD STARTED — SoMaCoSF/board branch mission-control, new top-level class-layer/ package: imbuuid@1 Identity registry (PROVISIONAL uuid5), hash-linked receipt chain, ceilings checked at act time with refusals receipted, board adapter over @vercel/board local backend, env-gated Supabase sink (env unset on this machine — local-only, stated plainly). Then a real-use round on a new estate board at ~/workspace/board-estate: witness + worker actors with differing ceilings, live-lane channels, real tasks posted/claimed/completed, the READ+CLASSIFY -> SEND refusal demonstrated on the chain, and MAP.md generated from the live data. Docs tab and supabase/ untouched by this crew.",
+   "text": "Mission-control HERO STARTED \u2014 adding an ELI5 hero visual to apps/mission-control in SoMaCoSF/board (branch mission-control): one inline SVG, five stations (Agents \u2192 Board \u2192 Receipt chain \u2192 Supabase \u2192 Mission control), gold pulse on the flow, caption; both tabs inherit it. Then build, production deploy, live verify."
+  },
+  {
+   "lane": "board-mission-control",
+   "text": "Class layer BUILD STARTED \u2014 SoMaCoSF/board branch mission-control, new top-level class-layer/ package: imbuuid@1 Identity registry (PROVISIONAL uuid5), hash-linked receipt chain, ceilings checked at act time with refusals receipted, board adapter over @vercel/board local backend, env-gated Supabase sink (env unset on this machine \u2014 local-only, stated plainly). Then a real-use round on a new estate board at ~/workspace/board-estate: witness + worker actors with differing ceilings, live-lane channels, real tasks posted/claimed/completed, the READ+CLASSIFY -> SEND refusal demonstrated on the chain, and MAP.md generated from the live data. Docs tab and supabase/ untouched by this crew.",
    "ts": "2026-11-19T15:18:13-08:00"
   },
   {
    "lane": "board-mission-control",
-   "text": "Docs tab + Supabase class-layer migration DONE — SoMaCoSF/board branch mission-control: commits 692bae0f (Docs tab) + 56d4c89f (migration), pushed. The dashboard now carries a Docs tab stating the proposed IMBUUID class in full (Polaris Task Shell; typed Identity imbuuid@1; ceilings checked at claim/act time, refusals receipted; hash-linked receipt chain; decision@1 routing by Jev — jevie.ai; SPOC Talk; escrow released on verified completion receipt; data layer; launch method; worked inbox example). supabase/migrations/0001_class_layer.sql holds identities / receipts / escrow_accounts / escrow_holds / dash_snapshots with RLS on and no public policies (service-role only); ships in repo, applied nowhere. App tsc build rc=0; tab toggle verified headless (10 sections). Production deployment dpl_4yKcDQ7Kwsp8px1GSzjW1rPMPbvY READY: board-mission-control.vercel.app serves the new page sha256-identical to the repo file, /api/activity live. Progress logged in IMBUUID-CLASS-PROPOSAL.md. board.somacosf.com untouched (still on command-center project — founder's call).",
+   "text": "Docs tab + Supabase class-layer migration DONE \u2014 SoMaCoSF/board branch mission-control: commits 692bae0f (Docs tab) + 56d4c89f (migration), pushed. The dashboard now carries a Docs tab stating the proposed IMBUUID class in full (Polaris Task Shell; typed Identity imbuuid@1; ceilings checked at claim/act time, refusals receipted; hash-linked receipt chain; decision@1 routing by Jev \u2014 jevie.ai; SPOC Talk; escrow released on verified completion receipt; data layer; launch method; worked inbox example). supabase/migrations/0001_class_layer.sql holds identities / receipts / escrow_accounts / escrow_holds / dash_snapshots with RLS on and no public policies (service-role only); ships in repo, applied nowhere. App tsc build rc=0; tab toggle verified headless (10 sections). Production deployment dpl_4yKcDQ7Kwsp8px1GSzjW1rPMPbvY READY: board-mission-control.vercel.app serves the new page sha256-identical to the repo file, /api/activity live. Progress logged in IMBUUID-CLASS-PROPOSAL.md. board.somacosf.com untouched (still on command-center project \u2014 founder's call).",
    "ts": "2026-11-19T15:11:59-08:00"
   },
   {
    "lane": "polaris-eval",
    "ts": "2026-11-19T15:06:40-08:00",
-   "text": "Polaris dossier §08 'The Adherence Board' LIVE: today's board work expressed on polaris.somacosf.com — Task Shell concept + six graded entries (eval package #1, Board eval, fork + class proposal, mission control, Supabase, eval package #2 designed). §06 OWED line cites SOM-DOC-10860. Live bytes sha1-verified identical to the committed file; trading-term grep 0; name grep unchanged."
+   "text": "Polaris dossier \u00a708 'The Adherence Board' LIVE: today's board work expressed on polaris.somacosf.com \u2014 Task Shell concept + six graded entries (eval package #1, Board eval, fork + class proposal, mission control, Supabase, eval package #2 designed). \u00a706 OWED line cites SOM-DOC-10860. Live bytes sha1-verified identical to the committed file; trading-term grep 0; name grep unchanged."
   },
   {
    "lane": "board-mission-control",
-   "text": "Docs tab + Supabase class-layer migration STARTED — in SoMaCoSF/board (branch mission-control): a Docs view on the mission-control dashboard that states the proposed IMBUUID class in full (typed Identity, ceilings, receipt chain, decision@1 routing by Jev, SPOC Talk, escrow, data layer, launch method, worked example), and supabase/migrations/0001_class_layer.sql with the class layer's tables (identities, receipts, escrow accounts/holds, dash snapshots; RLS on, service-role only; ships in repo, not applied). Source of truth: IMBUUID-CLASS-PROPOSAL.md (SOM-DOC-10868) incl. founder corrections. Build, push, redeploy, and live verification to follow.",
+   "text": "Docs tab + Supabase class-layer migration STARTED \u2014 in SoMaCoSF/board (branch mission-control): a Docs view on the mission-control dashboard that states the proposed IMBUUID class in full (typed Identity, ceilings, receipt chain, decision@1 routing by Jev, SPOC Talk, escrow, data layer, launch method, worked example), and supabase/migrations/0001_class_layer.sql with the class layer's tables (identities, receipts, escrow accounts/holds, dash snapshots; RLS on, service-role only; ships in repo, not applied). Source of truth: IMBUUID-CLASS-PROPOSAL.md (SOM-DOC-10868) incl. founder corrections. Build, push, redeploy, and live verification to follow.",
    "ts": "2026-11-19T15:04:51-08:00"
   },
   {
    "lane": "board-mission-control",
-   "text": "Mission-control launch method DONE — in SoMaCoSF/board, branch mission-control (pushed): apps/mission-control renders one snapshot of a board's agent activity (channels, tasks with claim holders + lease countdowns, newest feed events, agent roster) from the @vercel/board handle; launch direct from the repo via deploy button or scripts/launch-mission-control.sh (README section + app README with project settings and env). Routing decisions are decision@1 receipts by Jev — jevie.ai links in the routing panel, feed, footer, and READMEs. Copy law applied: the dash face carries no demo/disclaimer language; the data source is stated in the README internals. Live instance: board-mission-control.vercel.app (project prj_3kyRBcRhx8r0P6mhyf57ZJ3BygCm) reads the team's own board live (board 'General', one empty channel — the team board on first use). board.somacosf.com is NOT on it: that domain is attached to the command-center project (estate Build Dashboard) — founder's call. Builds: @vercel/board rc=0, app tsc rc=0; screenshot verified locally and committed.",
+   "text": "Mission-control launch method DONE \u2014 in SoMaCoSF/board, branch mission-control (pushed): apps/mission-control renders one snapshot of a board's agent activity (channels, tasks with claim holders + lease countdowns, newest feed events, agent roster) from the @vercel/board handle; launch direct from the repo via deploy button or scripts/launch-mission-control.sh (README section + app README with project settings and env). Routing decisions are decision@1 receipts by Jev \u2014 jevie.ai links in the routing panel, feed, footer, and READMEs. Copy law applied: the dash face carries no demo/disclaimer language; the data source is stated in the README internals. Live instance: board-mission-control.vercel.app (project prj_3kyRBcRhx8r0P6mhyf57ZJ3BygCm) reads the team's own board live (board 'General', one empty channel \u2014 the team board on first use). board.somacosf.com is NOT on it: that domain is attached to the command-center project (estate Build Dashboard) \u2014 founder's call. Builds: @vercel/board rc=0, app tsc rc=0; screenshot verified locally and committed.",
    "ts": "2026-11-19T14:56:59-08:00"
   },
   {
    "lane": "board-arch-diagrams",
-   "text": "COMPLETE: arch-theirs / arch-ours / arch-overlap (SVG+PNG, 1600px) + ARCH-NOTES.md in ~/workspace/harvest/vercel-board/diagrams/. Faces carry claims only per the 14:42 law — caveats (profile access, uuid format-only, hosted middleware coverage, PR policy, escrow test value) live in the notes. All renders read back and defects fixed.",
+   "text": "COMPLETE: arch-theirs / arch-ours / arch-overlap (SVG+PNG, 1600px) + ARCH-NOTES.md in ~/workspace/harvest/vercel-board/diagrams/. Faces carry claims only per the 14:42 law \u2014 caveats (profile access, uuid format-only, hosted middleware coverage, PR policy, escrow test value) live in the notes. All renders read back and defects fixed.",
    "ts": "2026-11-19T14:45:11-08:00"
   },
   {
    "lane": "board-arch-diagrams",
-   "text": "START: three architecture diagrams (theirs / ours / overlap) for the Board work — reading SPEC + proposal, hand-authored SVGs to follow.",
+   "text": "START: three architecture diagrams (theirs / ours / overlap) for the Board work \u2014 reading SPEC + proposal, hand-authored SVGs to follow.",
    "ts": "2026-11-19T14:41:19-08:00"
   },
   {
    "lane": "board-mission-control",
-   "text": "Mission-control launch method STARTED — in the SoMaCoSF/board fork: an agent-activity dashboard app in the repo (channels, threads, claims/leases, recent events, agent roster), a Deploy-to-Vercel button + one-command launch script direct from the repo README, jevie.ai pointers on the routing layer, and a live instance to follow. Build + screenshot verification before push.",
+   "text": "Mission-control launch method STARTED \u2014 in the SoMaCoSF/board fork: an agent-activity dashboard app in the repo (channels, threads, claims/leases, recent events, agent roster), a Deploy-to-Vercel button + one-command launch script direct from the repo README, jevie.ai pointers on the routing layer, and a live instance to follow. Build + screenshot verification before push.",
    "ts": "2026-11-19T14:30:36-08:00"
   },
   {
    "lane": "i3-rebuild",
-   "text": "i3.somacosf.com rebuild DONE — new i3 LIVE. Backup first (i3-backup-20261119: 58 files, sha256 manifest identical, live snapshot held; live index differed from local by 48 B, both preserved). Serving project somacosf-i3 (prj_limgYIqQYfLHAjKjxrQkxIm3KYGI); deployment dpl_5KYu8PXznZZGrvHZxUwARomDiF6A READY; live index + registry bytes sha256-identical to the build. Page: Identity Is Infrastructure, tagline 'the imbuuid universe is already defined' (i3's tagline, i3 only — founder clarification), the model, the defined universe (85 registry records rendered + resolver), measured proofs (T1 1,200/1,200 · T5 201,152/0 · T4 defect stated), honest zeros. Logo slot is typographic pending the founder's octopus mark (spec in build-notes.md).",
+   "text": "i3.somacosf.com rebuild DONE \u2014 new i3 LIVE. Backup first (i3-backup-20261119: 58 files, sha256 manifest identical, live snapshot held; live index differed from local by 48 B, both preserved). Serving project somacosf-i3 (prj_limgYIqQYfLHAjKjxrQkxIm3KYGI); deployment dpl_5KYu8PXznZZGrvHZxUwARomDiF6A READY; live index + registry bytes sha256-identical to the build. Page: Identity Is Infrastructure, tagline 'the imbuuid universe is already defined' (i3's tagline, i3 only \u2014 founder clarification), the model, the defined universe (85 registry records rendered + resolver), measured proofs (T1 1,200/1,200 \u00b7 T5 201,152/0 \u00b7 T4 defect stated), honest zeros. Logo slot is typographic pending the founder's octopus mark (spec in build-notes.md).",
    "ts": "2026-11-19T14:30:10-08:00"
   },
   {
    "lane": "i3-rebuild",
-   "text": "i3.somacosf.com rebuild STARTED — founder-directed: backup of the current build verified first (58 files, sha256 manifest identical; live snapshot saved — live index 42,798 B differs from local 42,750 B, both held in i3-backup-20261119). New build: Identity Is Infrastructure — the defined IMBUUID universe, stated as fact. Logo slot typographic until the founder's octopus mark lands.",
+   "text": "i3.somacosf.com rebuild STARTED \u2014 founder-directed: backup of the current build verified first (58 files, sha256 manifest identical; live snapshot saved \u2014 live index 42,798 B differs from local 42,750 B, both held in i3-backup-20261119). New build: Identity Is Infrastructure \u2014 the defined IMBUUID universe, stated as fact. Logo slot typographic until the founder's octopus mark lands.",
    "ts": "2026-11-19T14:25:15-08:00"
   },
   {
    "lane": "vercel-board-proposal",
-   "text": "IMBUUID native-class proposal DONE — SOM-DOC-10868 at harvest/vercel-board/IMBUUID-CLASS-PROPOSAL.md. Framed as the Polaris Task Shell: board.somacosf.com reference build first (typed identity, ceiling-checked claims, receipt chain, Jev routing + Laya, SPOC Talk layer, escrow payment on verified receipt), dual PRs as distribution (Jevie plugin on handoff; Board PR graded MECHANICALLY BLOCKED — collaborators-only PR creation, 0/200 external — posture is issue-first + ready-to-file), eval-task-board package + gradeR Adherence Board designed. Copy-law sweep done. Nothing built or submitted; the single tap is the founder's GO.",
+   "text": "IMBUUID native-class proposal DONE \u2014 SOM-DOC-10868 at harvest/vercel-board/IMBUUID-CLASS-PROPOSAL.md. Framed as the Polaris Task Shell: board.somacosf.com reference build first (typed identity, ceiling-checked claims, receipt chain, Jev routing + Laya, SPOC Talk layer, escrow payment on verified receipt), dual PRs as distribution (Jevie plugin on handoff; Board PR graded MECHANICALLY BLOCKED \u2014 collaborators-only PR creation, 0/200 external \u2014 posture is issue-first + ready-to-file), eval-task-board package + gradeR Adherence Board designed. Copy-law sweep done. Nothing built or submitted; the single tap is the founder's GO.",
    "ts": "2026-11-19T14:19:07-08:00"
   },
   {
    "lane": "vercel-board-proposal",
-   "text": "IMBUUID-as-native-class proposal for Vercel Board STARTED — target surface verified: github.com/vercel/board is public (Apache-2.0) but PR creation is collaborators-only and the last 200 PRs are 100% internal; design will grade the upstream PR vs our own plugin/skill package. Design + feasibility only; nothing submitted.",
+   "text": "IMBUUID-as-native-class proposal for Vercel Board STARTED \u2014 target surface verified: github.com/vercel/board is public (Apache-2.0) but PR creation is collaborators-only and the last 200 PRs are 100% internal; design will grade the upstream PR vs our own plugin/skill package. Design + feasibility only; nothing submitted.",
    "ts": "2026-11-19T14:14:12-08:00"
   },
   {
    "lane": "vercel-board-proposal",
-   "text": "IMBUUID native-class proposal for Vercel Board — SCOPE EXPANDED by founder: now leads with a live reference build (board.somacosf.com, IMBUUID-native, plugin-shaped like the Jevie wrap) + dual PRs (Jevie plugin, Board native class) + SPOC Talk contact layer + escrow payment leg. Target surface verified: github.com/vercel/board public (Apache-2.0), PR creation collaborators-only, last 200 PRs 100% internal. Design only; the build fires on one founder GO.",
+   "text": "IMBUUID native-class proposal for Vercel Board \u2014 SCOPE EXPANDED by founder: now leads with a live reference build (board.somacosf.com, IMBUUID-native, plugin-shaped like the Jevie wrap) + dual PRs (Jevie plugin, Board native class) + SPOC Talk contact layer + escrow payment leg. Target surface verified: github.com/vercel/board public (Apache-2.0), PR creation collaborators-only, last 200 PRs 100% internal. Design only; the build fires on one founder GO.",
    "ts": "2026-11-19T14:12:57-08:00"
   },
   {
    "lane": "jevie-vlad-report",
-   "text": "Jevie Windows-build report for Vlad DONE — draft at harvest/jevie/report-to-vlad-windows-build.md (founder reviews + sends; nothing sent). Verified live: fork still at v4.0.4, upstream now at v4.5.0 (three releases past the pin, not one). jev.csv verified: OMEN-01 holds an Electron-packaged Windows build tree predating 1.1.0.",
+   "text": "Jevie Windows-build report for Vlad DONE \u2014 draft at harvest/jevie/report-to-vlad-windows-build.md (founder reviews + sends; nothing sent). Verified live: fork still at v4.0.4, upstream now at v4.5.0 (three releases past the pin, not one). jev.csv verified: OMEN-01 holds an Electron-packaged Windows build tree predating 1.1.0.",
    "ts": "2026-11-19T13:32:00-08:00"
   },
   {
    "lane": "jevie-vlad-report",
-   "text": "Jevie Windows-build report for Vlad started — gathering verified state (DMG unpack, jev-use Windows surface, Omarchy base delta) before drafting. Draft only; founder sends.",
+   "text": "Jevie Windows-build report for Vlad started \u2014 gathering verified state (DMG unpack, jev-use Windows surface, Omarchy base delta) before drafting. Draft only; founder sends.",
    "ts": "2026-11-19T13:26:00-08:00"
   },
   {
    "lane": "jevie-foldin",
-   "text": "Jevie fold-in DONE — SOM-DOC-10864 map delivered: C1/C2/C5 foldable now (DecisionBackend + LocalJev specs, skill-pack format), C3/C7 patterns now and implementations wait for Vlad's repo; 8 exact source-waits listed. Docs only, nothing pushed.",
+   "text": "Jevie fold-in DONE \u2014 SOM-DOC-10864 map delivered: C1/C2/C5 foldable now (DecisionBackend + LocalJev specs, skill-pack format), C3/C7 patterns now and implementations wait for Vlad's repo; 8 exact source-waits listed. Docs only, nothing pushed.",
    "ts": "2026-11-19T12:15:36-08:00"
   },
   {
    "lane": "jevie-foldin",
-   "text": "Jevie fold-in lane started — SOM-DOC-10864 map + tranche-1 specs (DecisionBackend/System One spec, skill-pack format note, tailnet note) in writing. Docs only; nothing pushed.",
+   "text": "Jevie fold-in lane started \u2014 SOM-DOC-10864 map + tranche-1 specs (DecisionBackend/System One spec, skill-pack format note, tailnet note) in writing. Docs only; nothing pushed.",
    "ts": "2026-11-19T12:13:50-08:00"
   },
   {
    "lane": "rea-harvest",
-   "text": "REA lane D done — Windows build path + gap analysis + Rust harvest spec (SOM-DOC-10861) delivered. Four founder questions queued in the spec.",
+   "text": "REA lane D done \u2014 Windows build path + gap analysis + Rust harvest spec (SOM-DOC-10861) delivered. Four founder questions queued in the spec.",
    "ts": "2026-11-19T12:00:31-08:00"
   },
   {
@@ -128,17 +133,17 @@
   },
   {
    "lane": "rea-harvest",
-   "text": "REA lane D started — upstream delta, build baseline, Windows gap analysis, Rust harvest spec.",
+   "text": "REA lane D started \u2014 upstream delta, build baseline, Windows gap analysis, Rust harvest spec.",
    "ts": "2026-11-19T11:48:44-08:00"
   },
   {
    "lane": "spoken-itpm",
-   "text": "Milestone: rustgis-permit fold-in complete — rustgis-itpm is now a member crate of the imbue workspace (52 crates), tests 15/15 identical to the standalone baseline, CLI exercised on real records. Deploy-package prep started.",
+   "text": "Milestone: rustgis-permit fold-in complete \u2014 rustgis-itpm is now a member crate of the imbue workspace (52 crates), tests 15/15 identical to the standalone baseline, CLI exercised on real records. Deploy-package prep started.",
    "ts": "2026-11-19T19:44:41+00:00"
   },
   {
    "lane": "polaris-eval",
-   "text": "Polaris eval-task package DONE (SOM-DOC-10860): complete, checker-verified both directions, local only — dossier pointer update is the founder's call.",
+   "text": "Polaris eval-task package DONE (SOM-DOC-10860): complete, checker-verified both directions, local only \u2014 dossier pointer update is the founder's call.",
    "ts": "2026-11-19T11:44:28-08:00"
   },
   {
@@ -158,7 +163,7 @@
   },
   {
    "lane": "polaris-eval",
-   "text": "Polaris eval-task: substrate verified — all canonical vectors reproduce exactly; package build underway.",
+   "text": "Polaris eval-task: substrate verified \u2014 all canonical vectors reproduce exactly; package build underway.",
    "ts": "2026-11-19T11:41:36-08:00"
   },
   {
@@ -168,7 +173,7 @@
   },
   {
    "lane": "polaris-eval",
-   "text": "Polaris eval-task lane started — reading PROOFS.md and the dossier to choose the task substrate.",
+   "text": "Polaris eval-task lane started \u2014 reading PROOFS.md and the dossier to choose the task substrate.",
    "ts": "2026-11-19T19:40:01+00:00"
   },
   {
@@ -188,19 +193,19 @@
   },
   {
    "lane": "jevie-rea",
-   "text": "Lane started: Tier-2 REA on the founder's Jevie 1.1.0 (build 3053) DMG — split 7z verified complete on disk (23 volumes, 233,047,151 B), reassembling and unpacking on the VM. Static exercise only; macOS binary cannot run here.",
+   "text": "Lane started: Tier-2 REA on the founder's Jevie 1.1.0 (build 3053) DMG \u2014 split 7z verified complete on disk (23 volumes, 233,047,151 B), reassembling and unpacking on the VM. Static exercise only; macOS binary cannot run here.",
    "ts": "2026-11-19T12:02:20-08:00"
   },
   {
    "lane": "jevie-rea",
-   "text": "Lane complete: Jevie 1.1.0 DMG unpacked and REA'd (SOM-DOC-10862). Swift shell + Node 24 kernel (bytenode), Jev System One client contract evidenced in shipped Python source (jev-1.13.0) with on-device Laya fallback judge; Go/Tailscale + Rust finder sidecars; Paradee ONNX on-device. Composition measured to the byte; recovery verdict: rebuild-to-spec yes (docs/skills/assets survive), recompile no (kernel + Swift source not in DMG). No credentials in bundle. Open questions in HARVEST.md — chiefly the Vlad Terin copyright/repo provenance.",
+   "text": "Lane complete: Jevie 1.1.0 DMG unpacked and REA'd (SOM-DOC-10862). Swift shell + Node 24 kernel (bytenode), Jev System One client contract evidenced in shipped Python source (jev-1.13.0) with on-device Laya fallback judge; Go/Tailscale + Rust finder sidecars; Paradee ONNX on-device. Composition measured to the byte; recovery verdict: rebuild-to-spec yes (docs/skills/assets survive), recompile no (kernel + Swift source not in DMG). No credentials in bundle. Open questions in HARVEST.md \u2014 chiefly the Vlad Terin copyright/repo provenance.",
    "ts": "2026-11-19T12:07:21-08:00"
   }
  ],
  "lanes": [
   {
    "grade": "LIVE",
-   "headline": "Dossier §08 'The Adherence Board' published on polaris.somacosf.com (commit 17fd525, live byte-identical): the 2026-11-19 board work expressed and graded — eval-task package #1 PASS self-grade (90.0/90 vs 31.0/90), Board evaluation COMPLETE, fork + IMBUUID class proposal DESIGN COMPLETE, mission control LIVE, Supabase board project PROVISIONED, eval-task package #2 DESIGNED. §06 OWED line now cites SOM-DOC-10860.",
+   "headline": "Dossier \u00a708 'The Adherence Board' published on polaris.somacosf.com (commit 17fd525, live byte-identical): the 2026-11-19 board work expressed and graded \u2014 eval-task package #1 PASS self-grade (90.0/90 vs 31.0/90), Board evaluation COMPLETE, fork + IMBUUID class proposal DESIGN COMPLETE, mission control LIVE, Supabase board project PROVISIONED, eval-task package #2 DESIGNED. \u00a706 OWED line now cites SOM-DOC-10860.",
    "id": "polaris-eval",
    "name": "Polaris eval-task package",
    "next": "Founder taps unchanged: application submission; a timed solver run for package #1 (horizon still estimated); eval-task-board build follows the class build.",
@@ -224,7 +229,7 @@
   },
   {
    "grade": "LIVE",
-   "headline": "This page. Lane state and the update feed live in a data file the builders write to directly — the page re-reads it, no redeploy.",
+   "headline": "This page. Lane state and the update feed live in a data file the builders write to directly \u2014 the page re-reads it, no redeploy.",
    "id": "status-surface",
    "name": "Status surface",
    "next": "Input box below files founder input as a tracked item the orchestrator reads every cycle.",
@@ -234,7 +239,7 @@
    "grade": "DONE",
    "headline": "Lane D complete: WINDOWS.md (gap analysis) + HARVEST.md (SOM-DOC-10861) written. Delta = 579 hardening commits, zero features; build green on Linux; published Windows addon artifact-verified. Windows runtime acceptance waits on OMEN-01.",
    "id": "rea-harvest",
-   "name": "REA — Windows build + Rust harvest",
+   "name": "REA \u2014 Windows build + Rust harvest",
    "next": "Founder calls: fire the clean fast-forward fork sync (579 commits), partner coordination (fork has zero partner commits), MinGW build host vs published-artifact recovery, OMEN-01 acceptance session.",
    "updated_at": "2026-11-19T12:00:31-08:00"
   },
@@ -242,10 +247,10 @@
    "id": "jevie-rea",
    "name": "Jevie DMG REA (founder's own app, recovery + capability extraction)",
    "grade": "DONE",
-   "headline": "Lane complete: Jevie 1.1.0 DMG unpacked and REA'd (SOM-DOC-10862). Swift shell + Node 24 kernel (bytenode), Jev System One client contract evidenced in shipped Python source (jev-1.13.0) with on-device Laya fallback judge; Go/Tailscale + Rust finder sidecars; Paradee ONNX on-device. Composition measured to the byte; recovery verdict: rebuild-to-spec yes (docs/skills/assets survive), recompile no (kernel + Swift source not in DMG). No credentials in bundle. Open questions in HARVEST.md — chiefly the Vlad Terin copyright/repo provenance.",
+   "headline": "Lane complete: Jevie 1.1.0 DMG unpacked and REA'd (SOM-DOC-10862). Swift shell + Node 24 kernel (bytenode), Jev System One client contract evidenced in shipped Python source (jev-1.13.0) with on-device Laya fallback judge; Go/Tailscale + Rust finder sidecars; Paradee ONNX on-device. Composition measured to the byte; recovery verdict: rebuild-to-spec yes (docs/skills/assets survive), recompile no (kernel + Swift source not in DMG). No credentials in bundle. Open questions in HARVEST.md \u2014 chiefly the Vlad Terin copyright/repo provenance.",
    "next": "Founder review of HARVEST.md open questions.",
    "updated_at": "2026-11-19T12:07:21-08:00"
   }
  ],
- "updated_at": "2026-11-19T15:18:13-08:00"
+ "updated_at": "2026-11-19T15:19:15-08:00"
 }
