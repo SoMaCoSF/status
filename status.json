@@ -27,9 +27,14 @@
  ],
  "feed": [
   {
-   "ts": "2026-11-19T11:39:56-08:00",
+   "lane": "polaris-eval",
+   "text": "Polaris eval-task lane started \u2014 reading PROOFS.md and the dossier to choose the task substrate.",
+   "ts": "2026-11-19T19:40:01+00:00"
+  },
+  {
    "lane": "claims-scoring",
-   "text": "Claims-scoring lane started: verifying the 3-Brain study claim against the ledger, claim by claim."
+   "text": "Claims-scoring lane started: verifying the 3-Brain study claim against the ledger, claim by claim.",
+   "ts": "2026-11-19T11:39:56-08:00"
   },
   {
    "lane": "status-surface",
@@ -45,11 +50,11 @@
  "lanes": [
   {
    "grade": "BUILDING",
-   "headline": "Building the owed solo Polaris-shaped evaluation task \u2014 prompt, rubric, and fixtures drawn from the engineering corpus (GYST proofs, Atlas registry).",
+   "headline": "Lane A agent started: exploring the GYST proof corpus to pick the most honest, verifiable task substrate.",
    "id": "polaris-eval",
    "name": "Polaris eval-task package",
-   "next": "Agent assigned 2026-11-19; package draft is the first milestone.",
-   "updated_at": "2026-11-19T11:32:00-08:00"
+   "next": "Pick substrate, then build prompt + fixtures + rubric + checker.",
+   "updated_at": "2026-11-19T19:40:01+00:00"
   },
   {
    "grade": "BUILDING",
@@ -76,5 +81,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:39:56-08:00"
+ "updated_at": "2026-11-19T19:40:01+00:00"
 }
