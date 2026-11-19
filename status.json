@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "lane": "board-arch-diagrams",
+   "text": "START: three architecture diagrams (theirs / ours / overlap) for the Board work \u2014 reading SPEC + proposal, hand-authored SVGs to follow.",
+   "ts": "2026-11-19T14:41:19-08:00"
+  },
+  {
    "lane": "board-mission-control",
    "text": "Mission-control launch method STARTED \u2014 in the SoMaCoSF/board fork: an agent-activity dashboard app in the repo (channels, threads, claims/leases, recent events, agent roster), a Deploy-to-Vercel button + one-command launch script direct from the repo README, jevie.ai pointers on the routing layer, and a live instance to follow. Build + screenshot verification before push.",
    "ts": "2026-11-19T14:30:36-08:00"
