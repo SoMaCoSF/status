@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "ts": "2026-11-19T19:49:12+00:00",
+   "lane": "spoken-itpm",
+   "text": "Lane C complete: fold-in verified 15/15; deploy package built and hash-verified (337/337 legacy byte-exact, 4 additions, build clean). Awaiting founder git-route ruling + namespace #33 ruling. Production untouched."
+  },
+  {
    "lane": "rea-harvest",
    "text": "REA lane D started \u2014 upstream delta, build baseline, Windows gap analysis, Rust harvest spec.",
    "ts": "2026-11-19T11:48:44-08:00"
@@ -105,12 +110,12 @@
    "updated_at": "2026-11-19T11:43:41-08:00"
   },
   {
-   "grade": "BUILDING",
-   "headline": "rustgis-permit folded into the new rustgis-itpm member crate of the imbue workspace: cargo test -p rustgis-itpm 15/15 on final bytes, CLI check re-adds 140+84=224 on live firehose records, emit deterministic. Standalone crate retired with a pointer; DESIGN.md preserved.",
+   "grade": "READY",
+   "headline": "Both deliverables staged: (1) rustgis-permit folded into rustgis-itpm (imbue workspace member, 15/15 tests, CLI exercised). (2) /permits + /plans deploy package at spoken-itpm/deploy-package: origin/main 337 legacy files byte-exact + 4 new files, whole-tree build rc=0 with both routes static. Nothing deployed or pushed.",
    "id": "spoken-itpm",
    "name": "Spoken ITPM unblocking",
-   "next": "Now: /permits + /plans deploy package (augmented tree + DIFF vs remote main, prep only). Founder rulings still owed: git route, namespace #33.",
-   "updated_at": "2026-11-19T19:44:41+00:00"
+   "next": "Founder rulings are the only remaining steps: git route for the package (rec A: fast-forward + one commit), and namespace #33 (element ids root at itpm.somacosf.com in Crew A ingest vs spoken-itpm.somacosf.com in Crews B/C).",
+   "updated_at": "2026-11-19T19:49:12+00:00"
   },
   {
    "grade": "LIVE",
@@ -129,5 +134,5 @@
    "updated_at": "2026-11-19T11:48:44-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:48:44-08:00"
+ "updated_at": "2026-11-19T19:49:12+00:00"
 }
