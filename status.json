@@ -100,6 +100,11 @@
    "lane": "infra",
    "text": "Disk free-up complete: ~116G of stale build cache pruned stale-first; quota verified relieved, all lanes writing again.",
    "ts": "2026-11-19T11:30:00-08:00"
+  },
+  {
+   "lane": "jevie-rea",
+   "text": "Lane started: Tier-2 REA on the founder's Jevie 1.1.0 (build 3053) DMG \u2014 split 7z verified complete on disk (23 volumes, 233,047,151 B), reassembling and unpacking on the VM. Static exercise only; macOS binary cannot run here.",
+   "ts": "2026-11-19T12:02:20-08:00"
   }
  ],
  "lanes": [
@@ -142,7 +147,15 @@
    "name": "REA \u2014 Windows build + Rust harvest",
    "next": "Founder calls: fire the clean fast-forward fork sync (579 commits), partner coordination (fork has zero partner commits), MinGW build host vs published-artifact recovery, OMEN-01 acceptance session.",
    "updated_at": "2026-11-19T12:00:31-08:00"
+  },
+  {
+   "id": "jevie-rea",
+   "name": "Jevie DMG REA (founder's own app, recovery + capability extraction)",
+   "grade": "RUNNING",
+   "headline": "Lane started: Tier-2 REA on the founder's Jevie 1.1.0 (build 3053) DMG \u2014 split 7z verified complete on disk (23 volumes, 233,047,151 B), reassembling and unpacking on the VM. Static exercise only; macOS binary cannot run here.",
+   "next": "Unpack DMG, static inventory, capability extraction, HARVEST.md.",
+   "updated_at": "2026-11-19T12:02:20-08:00"
   }
  ],
- "updated_at": "2026-11-19T12:00:31-08:00"
+ "updated_at": "2026-11-19T12:02:20-08:00"
 }
