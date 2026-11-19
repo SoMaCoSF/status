@@ -27,14 +27,19 @@
  ],
  "feed": [
   {
-   "ts": "2026-11-19T11:43:41-08:00",
-   "lane": "claims-scoring",
-   "text": "Claims-scoring complete: score draft delivered to Witness for review. All verdicts evidence-cited; the correlation rests on both books' own ledgers, verified line by line."
+   "lane": "polaris-eval",
+   "text": "Polaris eval-task package DONE (SOM-DOC-10860): complete, checker-verified both directions, local only \u2014 dossier pointer update is the founder's call.",
+   "ts": "2026-11-19T11:44:28-08:00"
   },
   {
-   "ts": "2026-11-19T11:42:53-08:00",
    "lane": "claims-scoring",
-   "text": "Claims-scoring milestone: evidence pass complete on all study claims and the window-net correlation; score draft in writing."
+   "text": "Claims-scoring complete: score draft delivered to Witness for review. All verdicts evidence-cited; the correlation rests on both books' own ledgers, verified line by line.",
+   "ts": "2026-11-19T11:43:41-08:00"
+  },
+  {
+   "lane": "claims-scoring",
+   "text": "Claims-scoring milestone: evidence pass complete on all study claims and the window-net correlation; score draft in writing.",
+   "ts": "2026-11-19T11:42:53-08:00"
   },
   {
    "lane": "polaris-eval",
@@ -74,12 +79,12 @@
  ],
  "lanes": [
   {
-   "grade": "BUILDING",
-   "headline": "Verification matrix green both directions: hidden checker scores the reference solution 90/90 PASS and the broken starter 31/90 FAIL; visible suite agrees. The starter's force-unpacked object decode reproduces the proofs record's wrong exhibit (28672, 31) exactly.",
+   "grade": "READY",
+   "headline": "Package complete and verified: 'Bring the gyst-hex codec back into conformance' \u2014 prompt, SPEC, drifted starter, reference solution, rubric (100 pts), held-out checker. Checker on final bytes: solution 90/90 PASS, starter 31/90 FAIL. SOM-DOC-10860, local only.",
    "id": "polaris-eval",
    "name": "Polaris eval-task package",
-   "next": "Writing SPEC, prompt, rubric, README to finish the package.",
-   "updated_at": "2026-11-19T11:42:50-08:00"
+   "next": "Founder call: whether the dossier \u00a706 OWED line updates to cite the package \u2014 any site change is his tap. Package itself is ready to run against an evaluated agent.",
+   "updated_at": "2026-11-19T11:44:28-08:00"
   },
   {
    "grade": "REVIEW",
@@ -106,5 +111,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:43:41-08:00"
+ "updated_at": "2026-11-19T11:44:28-08:00"
 }
