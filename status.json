@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "i3-rebuild",
+   "text": "i3.somacosf.com rebuild DONE \u2014 new i3 LIVE. Backup first (i3-backup-20261119: 58 files, sha256 manifest identical, live snapshot held; live index differed from local by 48 B, both preserved). Serving project somacosf-i3 (prj_limgYIqQYfLHAjKjxrQkxIm3KYGI); deployment dpl_5KYu8PXznZZGrvHZxUwARomDiF6A READY; live index + registry bytes sha256-identical to the build. Page: Identity Is Infrastructure, tagline 'the imbuuid universe is already defined' (i3's tagline, i3 only \u2014 founder clarification), the model, the defined universe (85 registry records rendered + resolver), measured proofs (T1 1,200/1,200 \u00b7 T5 201,152/0 \u00b7 T4 defect stated), honest zeros. Logo slot is typographic pending the founder's octopus mark (spec in build-notes.md).",
+   "ts": "2026-11-19T14:30:10-08:00"
+  },
+  {
+   "lane": "i3-rebuild",
    "text": "i3.somacosf.com rebuild STARTED \u2014 founder-directed: backup of the current build verified first (58 files, sha256 manifest identical; live snapshot saved \u2014 live index 42,798 B differs from local 42,750 B, both held in i3-backup-20261119). New build: Identity Is Infrastructure \u2014 the defined IMBUUID universe, stated as fact. Logo slot typographic until the founder's octopus mark lands.",
    "ts": "2026-11-19T14:25:15-08:00"
   },
