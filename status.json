@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "ts": "2026-11-19T19:44:41+00:00",
+   "lane": "spoken-itpm",
+   "text": "Milestone: rustgis-permit fold-in complete \u2014 rustgis-itpm is now a member crate of the imbue workspace (52 crates), tests 15/15 identical to the standalone baseline, CLI exercised on real records. Deploy-package prep started."
+  },
+  {
    "lane": "polaris-eval",
    "text": "Polaris eval-task package DONE (SOM-DOC-10860): complete, checker-verified both directions, local only \u2014 dossier pointer update is the founder's call.",
    "ts": "2026-11-19T11:44:28-08:00"
@@ -96,11 +101,11 @@
   },
   {
    "grade": "BUILDING",
-   "headline": "Lane C started: folding rustgis-permit into the rustgis-itpm workspace (imbue crates), then preparing the /permits + /plans deploy package (no deploy, no push).",
+   "headline": "rustgis-permit folded into the new rustgis-itpm member crate of the imbue workspace: cargo test -p rustgis-itpm 15/15 on final bytes, CLI check re-adds 140+84=224 on live firehose records, emit deterministic. Standalone crate retired with a pointer; DESIGN.md preserved.",
    "id": "spoken-itpm",
    "name": "Spoken ITPM unblocking",
-   "next": "Fold-in + test suites on final bytes; deploy-package with file-by-file DIFF vs remote main. Founder rulings still owed: git route, namespace #33.",
-   "updated_at": "2026-11-19T19:41:05+00:00"
+   "next": "Now: /permits + /plans deploy package (augmented tree + DIFF vs remote main, prep only). Founder rulings still owed: git route, namespace #33.",
+   "updated_at": "2026-11-19T19:44:41+00:00"
   },
   {
    "grade": "LIVE",
@@ -111,5 +116,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:44:28-08:00"
+ "updated_at": "2026-11-19T19:44:41+00:00"
 }
