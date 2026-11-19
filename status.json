@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "ts": "2026-11-19T11:43:41-08:00",
+   "lane": "claims-scoring",
+   "text": "Claims-scoring complete: score draft delivered to Witness for review. All verdicts evidence-cited; the correlation rests on both books' own ledgers, verified line by line."
+  },
+  {
    "ts": "2026-11-19T11:42:53-08:00",
    "lane": "claims-scoring",
    "text": "Claims-scoring milestone: evidence pass complete on all study claims and the window-net correlation; score draft in writing."
@@ -77,12 +82,12 @@
    "updated_at": "2026-11-19T11:42:50-08:00"
   },
   {
-   "grade": "BUILDING",
-   "headline": "Evidence pass complete: every claim checked against the ledger and the paper books; the window-net correlation is computed from both sides' own records.",
+   "grade": "REVIEW",
+   "headline": "Score draft complete and with Witness for review: every study claim graded on cited evidence, and the window-net correlation computed from both sides' own records.",
    "id": "claims-scoring",
    "name": "Team claims scoring",
-   "next": "Score draft being written for Witness review; posting stays with Witness.",
-   "updated_at": "2026-11-19T11:42:53-08:00"
+   "next": "Witness decides whether the score and its questions go to the coordination channel; nothing posts from this lane.",
+   "updated_at": "2026-11-19T11:43:41-08:00"
   },
   {
    "grade": "BUILDING",
@@ -101,5 +106,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:42:53-08:00"
+ "updated_at": "2026-11-19T11:43:41-08:00"
 }
