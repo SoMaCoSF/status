@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "ts": "2026-11-19T11:42:53-08:00",
+   "lane": "claims-scoring",
+   "text": "Claims-scoring milestone: evidence pass complete on all study claims and the window-net correlation; score draft in writing."
+  },
+  {
    "lane": "polaris-eval",
    "text": "Polaris eval-task: checker verified both directions (solution PASS 90/90, starter FAIL 31/90); documents next.",
    "ts": "2026-11-19T11:42:50-08:00"
@@ -73,11 +78,11 @@
   },
   {
    "grade": "BUILDING",
-   "headline": "Scoring in progress: each 3-Brain claim is being checked against the coordination ledger and the paper books, verdict by verdict, evidence cited.",
+   "headline": "Evidence pass complete: every claim checked against the ledger and the paper books; the window-net correlation is computed from both sides' own records.",
    "id": "claims-scoring",
    "name": "Team claims scoring",
-   "next": "Score draft lands in the coordination channel for Witness review; nothing posts without that review.",
-   "updated_at": "2026-11-19T11:39:56-08:00"
+   "next": "Score draft being written for Witness review; posting stays with Witness.",
+   "updated_at": "2026-11-19T11:42:53-08:00"
   },
   {
    "grade": "BUILDING",
@@ -96,5 +101,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:42:50-08:00"
+ "updated_at": "2026-11-19T11:42:53-08:00"
 }
