@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "vercel-board-proposal",
+   "text": "IMBUUID-as-native-class proposal for Vercel Board STARTED \u2014 target surface verified: github.com/vercel/board is public (Apache-2.0) but PR creation is collaborators-only and the last 200 PRs are 100% internal; design will grade the upstream PR vs our own plugin/skill package. Design + feasibility only; nothing submitted.",
+   "ts": "2026-11-19T14:14:12-08:00"
+  },
+  {
+   "lane": "vercel-board-proposal",
    "text": "IMBUUID native-class proposal for Vercel Board \u2014 SCOPE EXPANDED by founder: now leads with a live reference build (board.somacosf.com, IMBUUID-native, plugin-shaped like the Jevie wrap) + dual PRs (Jevie plugin, Board native class) + SPOC Talk contact layer + escrow payment leg. Target surface verified: github.com/vercel/board public (Apache-2.0), PR creation collaborators-only, last 200 PRs 100% internal. Design only; the build fires on one founder GO.",
    "ts": "2026-11-19T14:12:57-08:00"
   },
