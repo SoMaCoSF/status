@@ -27,9 +27,14 @@
  ],
  "feed": [
   {
-   "ts": "2026-11-19T19:41:05+00:00",
+   "lane": "polaris-eval",
+   "text": "Polaris eval-task: substrate verified \u2014 all canonical vectors reproduce exactly; package build underway.",
+   "ts": "2026-11-19T11:41:36-08:00"
+  },
+  {
    "lane": "spoken-itpm",
-   "text": "Lane C started: rustgis-permit fold-in to rustgis-itpm workspace in progress; /permits + /plans deploy package to follow (prep only, no deploy)."
+   "text": "Lane C started: rustgis-permit fold-in to rustgis-itpm workspace in progress; /permits + /plans deploy package to follow (prep only, no deploy).",
+   "ts": "2026-11-19T19:41:05+00:00"
   },
   {
    "lane": "polaris-eval",
@@ -55,11 +60,11 @@
  "lanes": [
   {
    "grade": "BUILDING",
-   "headline": "Lane A agent started: exploring the GYST proof corpus to pick the most honest, verifiable task substrate.",
+   "headline": "Substrate locked: the GYST hex codec (canonical hexuuid.py, md5 matches the proofs record). Every ground-truth fact re-verified by execution: known vector, both object exhibits, xor-fold anchors 0xEFE/0xD9C, signal rounding, boundary roundtrips.",
    "id": "polaris-eval",
    "name": "Polaris eval-task package",
-   "next": "Pick substrate, then build prompt + fixtures + rubric + checker.",
-   "updated_at": "2026-11-19T19:40:01+00:00"
+   "next": "Building the package: broken starter, reference solution, hidden checker, rubric.",
+   "updated_at": "2026-11-19T11:41:36-08:00"
   },
   {
    "grade": "BUILDING",
@@ -86,5 +91,5 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   }
  ],
- "updated_at": "2026-11-19T19:41:05+00:00"
+ "updated_at": "2026-11-19T11:41:36-08:00"
 }
