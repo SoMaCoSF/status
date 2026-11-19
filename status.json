@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "rea-harvest",
+   "text": "REA lane D done \u2014 Windows build path + gap analysis + Rust harvest spec (SOM-DOC-10861) delivered. Four founder questions queued in the spec.",
+   "ts": "2026-11-19T12:00:31-08:00"
+  },
+  {
+   "lane": "rea-harvest",
    "text": "REA baseline done: build green on Linux, Windows addon artifact verified from the published tarball. Writing Windows gap analysis + Rust harvest spec.",
    "ts": "2026-11-19T11:55:47-08:00"
   },
@@ -131,13 +136,13 @@
    "updated_at": "2026-11-19T11:32:00-08:00"
   },
   {
-   "grade": "BUILDING",
-   "headline": "Baseline measured: fork is 579 commits behind upstream (pure hardening wave, zero feat commits). Linux build rc=0; typecheck+lint green; architecture-guards blocked only by this VM's 4096 fd cap (EMFILE). Published 6.9.0 Windows addon recovered from npm tarball: PE x86-64, SHA-256 matches manifest, artifact verifier passes.",
+   "grade": "DONE",
+   "headline": "Lane D complete: WINDOWS.md (gap analysis) + HARVEST.md (SOM-DOC-10861) written. Delta = 579 hardening commits, zero features; build green on Linux; published Windows addon artifact-verified. Windows runtime acceptance waits on OMEN-01.",
    "id": "rea-harvest",
    "name": "REA \u2014 Windows build + Rust harvest",
-   "next": "Write WINDOWS.md gap analysis + Rust harvest spec (HARVEST.md) with license gate (MIT, (c) 2026 morluto).",
-   "updated_at": "2026-11-19T11:55:47-08:00"
+   "next": "Founder calls: fire the clean fast-forward fork sync (579 commits), partner coordination (fork has zero partner commits), MinGW build host vs published-artifact recovery, OMEN-01 acceptance session.",
+   "updated_at": "2026-11-19T12:00:31-08:00"
   }
  ],
- "updated_at": "2026-11-19T11:55:47-08:00"
+ "updated_at": "2026-11-19T12:00:31-08:00"
 }
