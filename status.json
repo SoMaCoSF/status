@@ -27,9 +27,14 @@
  ],
  "feed": [
   {
-   "ts": "2026-11-19T19:44:41+00:00",
+   "lane": "rea-harvest",
+   "text": "REA lane D started \u2014 upstream delta, build baseline, Windows gap analysis, Rust harvest spec.",
+   "ts": "2026-11-19T11:48:44-08:00"
+  },
+  {
    "lane": "spoken-itpm",
-   "text": "Milestone: rustgis-permit fold-in complete \u2014 rustgis-itpm is now a member crate of the imbue workspace (52 crates), tests 15/15 identical to the standalone baseline, CLI exercised on real records. Deploy-package prep started."
+   "text": "Milestone: rustgis-permit fold-in complete \u2014 rustgis-itpm is now a member crate of the imbue workspace (52 crates), tests 15/15 identical to the standalone baseline, CLI exercised on real records. Deploy-package prep started.",
+   "ts": "2026-11-19T19:44:41+00:00"
   },
   {
    "lane": "polaris-eval",
@@ -114,7 +119,15 @@
    "name": "Status surface",
    "next": "Input box below files founder input as a tracked item the orchestrator reads every cycle.",
    "updated_at": "2026-11-19T11:32:00-08:00"
+  },
+  {
+   "grade": "BUILDING",
+   "headline": "Lane D started: upstream delta (578 commits), Linux build baseline, Windows gap analysis, Rust harvest spec for Somacomarchy.",
+   "id": "rea-harvest",
+   "name": "REA \u2014 Windows build + Rust harvest",
+   "next": "Fetch upstream + characterize delta vs SOM-DOC-10260 baseline; npm ci + build + check:fast baseline.",
+   "updated_at": "2026-11-19T11:48:44-08:00"
   }
  ],
- "updated_at": "2026-11-19T19:44:41+00:00"
+ "updated_at": "2026-11-19T11:48:44-08:00"
 }
