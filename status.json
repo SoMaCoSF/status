@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "lane": "jevie-foldin",
+   "text": "Jevie fold-in lane started \u2014 SOM-DOC-10864 map + tranche-1 specs (DecisionBackend/System One spec, skill-pack format note, tailnet note) in writing. Docs only; nothing pushed.",
+   "ts": "2026-11-19T12:13:50-08:00"
+  },
+  {
    "lane": "rea-harvest",
    "text": "REA lane D done \u2014 Windows build path + gap analysis + Rust harvest spec (SOM-DOC-10861) delivered. Four founder questions queued in the spec.",
    "ts": "2026-11-19T12:00:31-08:00"
