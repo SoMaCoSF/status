@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "vercel-board-proposal",
+   "text": "IMBUUID native-class proposal DONE \u2014 SOM-DOC-10868 at harvest/vercel-board/IMBUUID-CLASS-PROPOSAL.md. Framed as the Polaris Task Shell: board.somacosf.com reference build first (typed identity, ceiling-checked claims, receipt chain, Jev routing + Laya, SPOC Talk layer, escrow payment on verified receipt), dual PRs as distribution (Jevie plugin on handoff; Board PR graded MECHANICALLY BLOCKED \u2014 collaborators-only PR creation, 0/200 external \u2014 posture is issue-first + ready-to-file), eval-task-board package + gradeR Adherence Board designed. Copy-law sweep done. Nothing built or submitted; the single tap is the founder's GO.",
+   "ts": "2026-11-19T14:19:07-08:00"
+  },
+  {
+   "lane": "vercel-board-proposal",
    "text": "IMBUUID-as-native-class proposal for Vercel Board STARTED \u2014 target surface verified: github.com/vercel/board is public (Apache-2.0) but PR creation is collaborators-only and the last 200 PRs are 100% internal; design will grade the upstream PR vs our own plugin/skill package. Design + feasibility only; nothing submitted.",
    "ts": "2026-11-19T14:14:12-08:00"
   },
