@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "board-arch-diagrams",
+   "text": "COMPLETE: arch-theirs / arch-ours / arch-overlap (SVG+PNG, 1600px) + ARCH-NOTES.md in ~/workspace/harvest/vercel-board/diagrams/. Faces carry claims only per the 14:42 law \u2014 caveats (profile access, uuid format-only, hosted middleware coverage, PR policy, escrow test value) live in the notes. All renders read back and defects fixed.",
+   "ts": "2026-11-19T14:45:11-08:00"
+  },
+  {
+   "lane": "board-arch-diagrams",
    "text": "START: three architecture diagrams (theirs / ours / overlap) for the Board work \u2014 reading SPEC + proposal, hand-authored SVGs to follow.",
    "ts": "2026-11-19T14:41:19-08:00"
   },
