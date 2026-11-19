@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "jevie-vlad-report",
+   "text": "Jevie Windows-build report for Vlad DONE \u2014 draft at harvest/jevie/report-to-vlad-windows-build.md (founder reviews + sends; nothing sent). Verified live: fork still at v4.0.4, upstream now at v4.5.0 (three releases past the pin, not one). jev.csv verified: OMEN-01 holds an Electron-packaged Windows build tree predating 1.1.0.",
+   "ts": "2026-11-19T13:32:00-08:00"
+  },
+  {
+   "lane": "jevie-vlad-report",
    "text": "Jevie Windows-build report for Vlad started \u2014 gathering verified state (DMG unpack, jev-use Windows surface, Omarchy base delta) before drafting. Draft only; founder sends.",
    "ts": "2026-11-19T13:26:00-08:00"
   },
