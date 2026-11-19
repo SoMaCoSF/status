@@ -27,6 +27,11 @@
  ],
  "feed": [
   {
+   "lane": "jevie-vlad-report",
+   "text": "Jevie Windows-build report for Vlad started \u2014 gathering verified state (DMG unpack, jev-use Windows surface, Omarchy base delta) before drafting. Draft only; founder sends.",
+   "ts": "2026-11-19T13:26:00-08:00"
+  },
+  {
    "lane": "jevie-foldin",
    "text": "Jevie fold-in DONE \u2014 SOM-DOC-10864 map delivered: C1/C2/C5 foldable now (DecisionBackend + LocalJev specs, skill-pack format), C3/C7 patterns now and implementations wait for Vlad's repo; 8 exact source-waits listed. Docs only, nothing pushed.",
    "ts": "2026-11-19T12:15:36-08:00"
