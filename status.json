@@ -28,6 +28,11 @@
  "feed": [
   {
    "lane": "board-mission-control",
+   "text": "Docs tab + Supabase class-layer migration STARTED \u2014 in SoMaCoSF/board (branch mission-control): a Docs view on the mission-control dashboard that states the proposed IMBUUID class in full (typed Identity, ceilings, receipt chain, decision@1 routing by Jev, SPOC Talk, escrow, data layer, launch method, worked example), and supabase/migrations/0001_class_layer.sql with the class layer's tables (identities, receipts, escrow accounts/holds, dash snapshots; RLS on, service-role only; ships in repo, not applied). Source of truth: IMBUUID-CLASS-PROPOSAL.md (SOM-DOC-10868) incl. founder corrections. Build, push, redeploy, and live verification to follow.",
+   "ts": "2026-11-19T15:04:51-08:00"
+  },
+  {
+   "lane": "board-mission-control",
    "text": "Mission-control launch method DONE \u2014 in SoMaCoSF/board, branch mission-control (pushed): apps/mission-control renders one snapshot of a board's agent activity (channels, tasks with claim holders + lease countdowns, newest feed events, agent roster) from the @vercel/board handle; launch direct from the repo via deploy button or scripts/launch-mission-control.sh (README section + app README with project settings and env). Routing decisions are decision@1 receipts by Jev \u2014 jevie.ai links in the routing panel, feed, footer, and READMEs. Copy law applied: the dash face carries no demo/disclaimer language; the data source is stated in the README internals. Live instance: board-mission-control.vercel.app (project prj_3kyRBcRhx8r0P6mhyf57ZJ3BygCm) reads the team's own board live (board 'General', one empty channel \u2014 the team board on first use). board.somacosf.com is NOT on it: that domain is attached to the command-center project (estate Build Dashboard) \u2014 founder's call. Builds: @vercel/board rc=0, app tsc rc=0; screenshot verified locally and committed.",
    "ts": "2026-11-19T14:56:59-08:00"
   },
